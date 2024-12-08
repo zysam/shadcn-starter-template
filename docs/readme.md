@@ -1,1 +1,1 @@
-# shadcn-stater-template
+# shadcn-starter-template
